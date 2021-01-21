@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-first-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/my-first-app/static/js/main.093fb5b9.chunk.js",
+    "main.js.map": "/my-first-app/static/js/main.093fb5b9.chunk.js.map",
+    "runtime-main.js": "/my-first-app/static/js/runtime-main.b774d874.js",
+    "runtime-main.js.map": "/my-first-app/static/js/runtime-main.b774d874.js.map",
+    "static/css/2.13fd37b7.chunk.css": "/my-first-app/static/css/2.13fd37b7.chunk.css",
+    "static/js/2.8923b1a6.chunk.js": "/my-first-app/static/js/2.8923b1a6.chunk.js",
+    "static/js/2.8923b1a6.chunk.js.map": "/my-first-app/static/js/2.8923b1a6.chunk.js.map",
+    "static/js/3.a64cf403.chunk.js": "/my-first-app/static/js/3.a64cf403.chunk.js",
+    "static/js/3.a64cf403.chunk.js.map": "/my-first-app/static/js/3.a64cf403.chunk.js.map",
+    "index.html": "/my-first-app/index.html",
+    "static/css/2.13fd37b7.chunk.css.map": "/my-first-app/static/css/2.13fd37b7.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/my-first-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8923b1a6.chunk.js.LICENSE.txt": "/my-first-app/static/js/2.8923b1a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b774d874.js",
+    "static/css/2.13fd37b7.chunk.css",
+    "static/js/2.8923b1a6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.093fb5b9.chunk.js"
+  ]
+}
